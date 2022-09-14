@@ -1,0 +1,250 @@
+{
+  "subject": [
+    {
+      "Semester_1": [
+        {
+          "theory": [
+            {
+              "SubjectName": "Problem Solving And Programming in C",
+              "code ": "CA101",
+              "openCode": "BCA11",
+              "shortName": "PSPC",
+              "credit": 3,
+              "listOrder": 1,
+              "content": [
+                {
+                  "module": "Module - I",
+                  "content": "Problem Solving and Programming Concepts: Problem Solving in Everyday Life, Types of Problem, Problem Solving with Computers.\n Overview of C: History of C, Importance of C, Structure of C program, Sample of C programs. Constant, Variable and Data types: C Tokens - keywords, identifier, constant, string, and operators, and symbols, Data types - primary data types, user defined data types, and derived data types, Declaration of variables, assign values to variables.\nOperators and Expressions: Different types of operators - arithmetic operators, relational operators, logical operators, assignment operators, increment and decrement operators, bitwise operators, conditional operators and special operators, Arithmetic expressions - precedence of arithmetic operators, Type conversions in expressions.\nManaging input and output operations: Reading a character, Writing a character, Formatted input, Formatted output."
+                },
+                {
+                  "module": "Module - II",
+                  "content": "Decision making and Branching: Decision making with if statement - Simple if statement, The if …. Else statement, Nesting of if …. Else statement, The else if ladder, The switch statement, The ? : Operator, The go-to statement.\nDecision making and Looping: The while statement, The do statement, The for statement, Jumps in loops."
+                },
+                {
+                  "module": "Module - III",
+                  "content": "Arrays: One - dimensional arrays, Declaration of one - dimensional arrays, Twodimensional arrays, Declaration of two - dimensional arrays, Multi - dimensional arrays.\nCharacter Arrays and String: Declaring and initializing string variables, Reading string from terminal, Writing string to screen, Putting string together, Comparison of two strings, String handling functions, Other features of strings."
+                },
+                {
+                  "module": "Module - IV",
+                  "content": "User defined functions: A multi - function program, Definition of function, Function calls, Function declaration, Category of functions, Nesting of functions, Recursion, Passing arrays to functions, Passing strings to functions."
+                },
+                {
+                  "module": "Module - V",
+                  "content": "Structures and Unions: Defining a structure, Declaring structure variables, Accessing structure members, Arrays of structures, Arrays within structures, Structures within structures, Structures and functions, Union.\nPointers: Understanding pointers, Accessing the address of a variable, Declaring pointer variables, Pointer expressions, Array of pointers, Pointers to function, Pointers and structures.\nFile Management: Defining and opening a file, Closing a file, Input/ Output operations on files, Error handling during I/O operations "
+                }
+              ],
+              "book": [
+                {
+                  "textBooks": [
+                    {
+                      "bookName": "Balagurusamy E., “Programming in ANSI C”, 5thEdition, TMH, 2010. (T1)"
+                    },
+                    {
+                      "bookName": "Sprankle M., “Problem Solving and Programming Concepts”, 7thEdition, Pearson Education, NewDelhi, 2006.(T2)"
+                    }
+                  ],
+                  "referenceBook": [
+                    {
+                      "bookName": "Gottfried B. S., “Programming with C”, Schaum Series, McGraw Hill, 2005. (R1)"
+                    },
+                    {
+                      "bookName": "Kanetkar Y., “Let us C”, 4th Edition, BPB publication, New Delhi, 2002.(R2)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "SubjectName": "Logical Organizations of Computers",
+              "code ": "CA103",
+              "openCode": "BCA12",
+              "shortName": "loof loc",
+              "credit": 4,
+              "listOrder": 2,
+              "content": [
+                {
+                  "module": "Module - I",
+                  "content": "Digital Logic Circuits: Digital Computers, Logic Gates, Boolean algebra, Complement of a Function, Map Simplification, Product-of-sum simplification, Don't care conditions,Combinational Circuits, Half Adder, Full Adder, Flip-Flops, Sequential Circuits"
+                },
+                {
+                  "module": "Module - II",
+                  "content": "Digital Components: Integrated Circuits, Decoders, NAND Gate Decoder, Encoders,Multiplexers, Registers, Register with parallel load, Shift Registers, Bidirectional Shift register with parallel load, Binary Counters, Binary counter with parallel load, Memory Unit, RAM, ROM, Types of ROMs.\nData Representation: Data Types, Number System, Complements, Subtraction of Unsigned Numbers, Fixed-Point Representation, Floating-Point Representation, Other Binary Codes,Other Decimal Codes, Error Detection Codes"
+                },
+                {
+                  "module": "Module - III",
+                  "content": "Register Transfer and Micro-operations: Register Transfer language, Register Transfer Bus and Memory Transfers, Three-State Bus Buffers, Memory Transfer, Arithmetic Microoperations, Binary Adder, Binary Adder-Subtractor, Binary incrementer, Arithmetic Circuit Logic, Micro-operations, Shift Micro-operations, Hardware Implementation,Arithmetic Logic Shift Unit. "
+                },
+                {
+                  "module": "Module - IV",
+                  "content": "Central Processing Unit: Introduction, General Register Organization, Stack Organization,Register Stack, Memory Stack, Reverse Polish Notation, Evaluation of Arithmetic Expressions, Instruction Formats, Addressing Modes, Data Transfer and Manipulation,Program Control, Program Interrupt, Types of Interrupts, Reduced Instruction Set Computer (RISC). "
+                },
+                {
+                  "module": "Module - V",
+                  "content": "Memory Organization: Memory Hierarchy, Main Memory, RAM and ROM Chips,Memory Address Map, Memory Connection to CPU, Auxiliary Memory, Magnetic Disks and Tape, Associative Memory, Hardware Organization, March Logic, Read/Write Operation, Cache Memory, Associative Mapping, Direct Mapping, Set-Associative Mapping, Virtual Memory, Address Space and Memory Space, Address Mapping Using Pages, Associative Memory Page Table, Page Replacement, Memory Management Hardware."
+                }
+              ],
+              "book": [
+                {
+                  "textBooks": [
+                    {
+                      "bookName": "Mano M., “Computer System Architecture”, Prentice Hall of India, New Delhi, 1995.(T1)"
+                    }
+                  ],
+                  "referenceBook": [
+                    {
+                      "bookName": "Morris Mano M &Ciletti M.D., “Digital Design”, 4th Edition, PHI, 2008.(R1)"
+                    },
+                    {
+                      "bookName": "Hayes, J.P., “Computer Architecture and Organization”, 3rdEdition, McGraw-Hill, London, 2000, (R2)"
+                    },
+                    {
+                      "bookName": "Ram. B., “Computer Fundamentals: Architecture and Organization”, 3rdEdition, New Age International Publication, New Delhi, 2000.(R3)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "SubjectName": "BASICS OF MATHEMATICS",
+              "openCode": "BCA13",
+              "code ": "CA105",
+              "shortName": "math",
+              "credit": 3,
+              "listOrder": 3,
+              "content": [
+                {
+                  "module": "Module - I",
+                  "content": "Sets and Relations: Sets and their representations, The empty set, Finite and Infinite set, Equal and equivalent set, Subset, power set, Universal set, Venn diagrams, Operations on sets, Complement of a set, Cartesian product, Relation, Inverse Relation, Composition of relation, Equivalence of relations and Classes."
+                },
+                {
+                  "module": "Module - II",
+                  "content": "Functions and Binary Operations: Functions as a set, Representation of function,Types of Functions, Functions applicable in Computer Science: Integer function,Factorial function, Absolute, Characteristic, Floor, Ceiling, Remainder, Boolean,Exponential, Logarithmic, Hashing functions and Binary operation on a set. "
+                },
+                {
+                  "module": "Module - III",
+                  "content": "Abstract Algebra: Group, Subgroup, Abelian group, Order of group, cyclic group and Simple theorems, Definition of Ring, Subring Integral domain and Field. "
+                },
+                {
+                  "module": "Module - IV",
+                  "content": "Matrices Algebra: Definition of matrix, Operations on matrices, Square matrix and its inverse, Inverse of a matrix by Row operation, Rank of matrix by Echelon form, Solution of a System of Linear Simultaneous equation by matrix method, Eigen value and Eigen vector.\nLinear Algebra: Vector spaces, Subspaces, Span of a set, Linear Dependence,Independence"
+                },
+                {
+                  "module": "Module - V",
+                  "content": "Differential equation: Definition of Differential equation, Order and degree of a differential equation, Linear differential equation and Equation of Higher Order Linear differential equation with constant coefficients"
+                }
+              ],
+              "book": [
+                {
+                  "textBooks": [
+                    {
+                      "bookName": "Vasishtha A.R., “Modern Algebra”, Krishna Prakashan Media (P) Ltd, Meerut, 2006.(T1) "
+                    },
+                    {
+                      "bookName": "Vasishtha A.R, “Matrices”, Krishna Prakashan Media (P) Ltd, Meerut, 2006. (T2) "
+                    },
+                    {
+                      "bookName": "Das H.K., “Advanced Engineering Mathematics”, S. Chand, 2009.(T3) "
+                    }
+                  ],
+                  "referenceBook": [
+                    {
+                      "bookName": "KolmanB., BusbyR. C., and RossS. C., “Discrete Mathematical Structures”, 6th Edition, Prentice Hall of India, 2008.(R1)"
+                    },
+                    {
+                      "bookName": "ShethH., “Abstract Algebra”, PHI, 2009.(R2)"
+                    },
+                    {
+                      "bookName": "GrewalB. S., “Higher Engineering Mathematics”, Khanna Publishers, 2000.(R3)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "SubjectName": " INTRODUCTION TO COMPUTER SCIENCE",
+
+              "code ": "CA115",
+              "openCode": "BCA14",
+              "shortName": "itcs",
+              "credit": 3,
+              "listOrder": 4,
+              "content": [
+                {
+                  "module": "Module - I",
+                  "content": "Introduction to Computers: Definition, Characteristics of Computers, Classification of Computers, Applications of Computers.\nNumber Systems and Logic Gates: Number Systems, Conversion between Number bases, Arithmetic System. Signed and Unsigned Numbers, Concept of Overflow,Binary Coding, Logic Gates, Boolean Algebra and Combination of Logic Gates."
+                },
+                {
+                  "module": "Module - II",
+                  "content": "Computer Architecture: Central Processing Unit (CPU), Memory, Communication between various units of a Computer System, The Instruction Format, Instruction Set.\nComputer Memory: Primary Memory Hierarchy, Random Access Memory, Types of RAM, Read only memory (ROM), Types of ROM., Classification of Secondary Storage Devices, Magnetic Tape, Magnetic Disk, Optical Disk."
+                },
+                {
+                  "module": "Module - III",
+                  "content": "Input Devices & Output Devices: Keyboard, Pointing Devices, Speech Recognition,Digital Camera, Scanners, Optical Scanners, output devices: Printers, Plotters,Computer Output Microfilm (COM), Monitors, Audio output, Projectors, Terminals.\nComputer Program & Languages: Introduction, Developing a program, Algorithm,Flowchart, Pseudo Code (P-Code). Classification of Programming Languages,Generations of Programming Languages."
+                },
+                {
+                  "module": "Module - IV",
+                  "content": "Computer Software: Software: Definition, Relationship between Software and Hardware, Software Categories, System Software, Application Software.\nOperating system: Definition of Operating system, Evolution of operating system,Types of Operating System, Functions of an Operating System, Modern Operating Systems"
+                },
+                {
+                  "module": "Module - V",
+                  "content": "Data Communication and Computer Network: Introduction of Data Communication, Transmission Media, Multiplexing, Switching, Computer Network's Topologies, Communication Protocols, Network Devices.\nInternet Basics: Basic Internet Terms, InternetApplications, Electronic Mail: An Introduction how E-mail Works, Searching the Web (SearchEngines), Languages of Internet, Internet and Viruses."
+                }
+              ],
+              "book": [
+                {
+                  "textBooks": [
+                    {
+                      "bookName": "ITL Education Solution Limited, R & D Wing, Introduction to Computer Science, Pearson Education, 2004. "
+                    },
+                    {
+                      "bookName": "Mano M., “Computer System Architecture”, Prentice Hall of India, New Delhi, 1995.(T1)"
+                    }
+                  ],
+                  "referenceBook": [
+                    {
+                      "bookName": "Raja Raman V, Fundamentals of Computers, Second Edition, PHI, New Delhi, 1996. "
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "lab" : [
+            {
+              "SubjectName": "C PROGRAMMING LAB",
+
+              "code ": "CA112",
+              "openCode": "BCA15",
+              "shortName": "cpl",
+              "credit": 2,
+              "listOrder": 1,
+              "content": [
+                {
+                    "question":"1. Write an interactive program that will read in a +ve integer value and determine the following\ni) If the integer is a prime number\nii) If the integer is a Fibonacci number\n\n2. WAP in C to compute sinx = x - x3/3! + x5/3! - x7/7! ….. Continue adding successive terms in the series until the value of the next term becomes smaller (in magnitude) than 10-5. Test the program for x = 1, x = 2,and x = 3. In each case display the number of terms used to obtain the final answer\n\n3. WAP to generate every 3rd integer beginning with I = 2 and continue for all integers that are less than 150.Calculate the sum of those integers that are evenly divisible by 5.\n\n4. WAP to find whether a given year is a leap year or not. Modify it to generate a list of leap years between two year limits given by user.\n\n5. WAP to display the following pattern:",
+                    "image":""
+                }
+              ],
+              "book": [
+                {
+                  "textBooks": [
+                    {
+                      "bookName": "ITL Education Solution Limited, R & D Wing, Introduction to Computer Science, Pearson Education, 2004. "
+                    },
+                    {
+                      "bookName": "Mano M., “Computer System Architecture”, Prentice Hall of India, New Delhi, 1995.(T1)"
+                    }
+                  ],
+                  "referenceBook": [
+                    {
+                      "bookName": "Raja Raman V, Fundamentals of Computers, Second Edition, PHI, New Delhi, 1996. "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
