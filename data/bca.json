@@ -241,10 +241,10 @@
             }
           },
           {
-            "SubjectName": "C PROGRAMMING LAB",
-            "code ": "CA112",
-            "openCode": "BCA15",
-            "shortName": "cpl",
+            "SubjectName": "OFFICE AUTOMATION TOOLS LAB",
+            "code ": " CA212",
+            "openCode": "BCA16",
+            "shortName": "oat",
             "credit": 2,
             "listOrder": 1,
             "content": [
