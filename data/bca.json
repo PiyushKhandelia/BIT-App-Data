@@ -1,7 +1,7 @@
 {
   "semesters": [
     {
-      "sem": "1",
+      "sem": 1,
       "subjects": [
         {
           "theory": [
@@ -34,7 +34,7 @@
                   "content": "Structures and Unions: Defining a structure, Declaring structure variables, Accessing structure members, Arrays of structures, Arrays within structures, Structures within structures, Structures and functions, Union.\nPointers: Understanding pointers, Accessing the address of a variable, Declaring pointer variables, Pointer expressions, Array of pointers, Pointers to function, Pointers and structures.\nFile Management: Defining and opening a file, Closing a file, Input/ Output operations on files, Error handling during I/O operations "
                 }
               ],
-              "book": [
+              "books": [
                 {
                   "textBooks": [
                     {
@@ -44,7 +44,7 @@
                       "bookName": "Sprankle M., “Problem Solving and Programming Concepts”, 7thEdition, Pearson Education, NewDelhi, 2006.(T2)"
                     }
                   ],
-                  "referenceBook": [
+                  "referenceBooks": [
                     {
                       "bookName": "Gottfried B. S., “Programming with C”, Schaum Series, McGraw Hill, 2005. (R1)"
                     },
@@ -84,14 +84,14 @@
                   "content": "Memory Organization: Memory Hierarchy, Main Memory, RAM and ROM Chips,Memory Address Map, Memory Connection to CPU, Auxiliary Memory, Magnetic Disks and Tape, Associative Memory, Hardware Organization, March Logic, Read/Write Operation, Cache Memory, Associative Mapping, Direct Mapping, Set-Associative Mapping, Virtual Memory, Address Space and Memory Space, Address Mapping Using Pages, Associative Memory Page Table, Page Replacement, Memory Management Hardware."
                 }
               ],
-              "book": [
+              "books": [
                 {
                   "textBooks": [
                     {
                       "bookName": "Mano M., “Computer System Architecture”, Prentice Hall of India, New Delhi, 1995.(T1)"
                     }
                   ],
-                  "referenceBook": [
+                  "referenceBooks": [
                     {
                       "bookName": "Morris Mano M &Ciletti M.D., “Digital Design”, 4th Edition, PHI, 2008.(R1)"
                     },
@@ -134,7 +134,7 @@
                   "content": "Differential equation: Definition of Differential equation, Order and degree of a differential equation, Linear differential equation and Equation of Higher Order Linear differential equation with constant coefficients"
                 }
               ],
-              "book": [
+              "books": [
                 {
                   "textBooks": [
                     {
@@ -147,7 +147,7 @@
                       "bookName": "Das H.K., “Advanced Engineering Mathematics”, S. Chand, 2009.(T3) "
                     }
                   ],
-                  "referenceBook": [
+                  "referenceBooks": [
                     {
                       "bookName": "KolmanB., BusbyR. C., and RossS. C., “Discrete Mathematical Structures”, 6th Edition, Prentice Hall of India, 2008.(R1)"
                     },
@@ -191,7 +191,7 @@
                   "content": "Data Communication and Computer Network: Introduction of Data Communication, Transmission Media, Multiplexing, Switching, Computer Network's Topologies, Communication Protocols, Network Devices.\nInternet Basics: Basic Internet Terms, InternetApplications, Electronic Mail: An Introduction how E-mail Works, Searching the Web (SearchEngines), Languages of Internet, Internet and Viruses."
                 }
               ],
-              "book": [
+              "books": [
                 {
                   "textBooks": [
                     {
@@ -201,7 +201,7 @@
                       "bookName": "Mano M., “Computer System Architecture”, Prentice Hall of India, New Delhi, 1995.(T1)"
                     }
                   ],
-                  "referenceBook": [
+                  "referenceBooks": [
                     {
                       "bookName": "Raja Raman V, Fundamentals of Computers, Second Edition, PHI, New Delhi, 1996. "
                     }
@@ -229,7 +229,7 @@
                   "image": null
                 }
               ],
-              "book": [
+              "books": [
                 {
                   "textBooks": [
                     {
@@ -245,7 +245,7 @@
                       "bookName": "R.G.Dromey, How to Solve it by Computer, Pearson Education. (T4)"
                     }
                   ],
-                  "referenceBook": [
+                  "referenceBooks": [
                     {
                       "bookName": "Brian W. Kernighan and Dennis M. Ritchie, “The C Programming Language”, Prentice Hall India Learning Private Limited.(R1)"
                     }
