@@ -33,26 +33,24 @@
                 "content": "Structures and Unions: Defining a structure, Declaring structure variables, Accessing structure members, Arrays of structures, Arrays within structures, Structures within structures, Structures and functions, Union.\nPointers: Understanding pointers, Accessing the address of a variable, Declaring pointer variables, Pointer expressions, Array of pointers, Pointers to function, Pointers and structures.\nFile Management: Defining and opening a file, Closing a file, Input/ Output operations on files, Error handling during I/O operations "
               }
             ],
-            "books": [
-              {
-                "textBooks": [
-                  {
-                    "bookName": "Balagurusamy E., “Programming in ANSI C”, 5thEdition, TMH, 2010. (T1)"
-                  },
-                  {
-                    "bookName": "Sprankle M., “Problem Solving and Programming Concepts”, 7thEdition, Pearson Education, NewDelhi, 2006.(T2)"
-                  }
-                ],
-                "referenceBooks": [
-                  {
-                    "bookName": "Gottfried B. S., “Programming with C”, Schaum Series, McGraw Hill, 2005. (R1)"
-                  },
-                  {
-                    "bookName": "Kanetkar Y., “Let us C”, 4th Edition, BPB publication, New Delhi, 2002.(R2)"
-                  }
-                ]
-              }
-            ]
+            "books": {
+              "textBooks": [
+                {
+                  "bookName": "Balagurusamy E., “Programming in ANSI C”, 5thEdition, TMH, 2010. (T1)"
+                },
+                {
+                  "bookName": "Sprankle M., “Problem Solving and Programming Concepts”, 7thEdition, Pearson Education, NewDelhi, 2006.(T2)"
+                }
+              ],
+              "referenceBooks": [
+                {
+                  "bookName": "Gottfried B. S., “Programming with C”, Schaum Series, McGraw Hill, 2005. (R1)"
+                },
+                {
+                  "bookName": "Kanetkar Y., “Let us C”, 4th Edition, BPB publication, New Delhi, 2002.(R2)"
+                }
+              ]
+            }
           },
           {
             "SubjectName": "Logical Organizations of Computers",
@@ -83,26 +81,24 @@
                 "content": "Memory Organization: Memory Hierarchy, Main Memory, RAM and ROM Chips,Memory Address Map, Memory Connection to CPU, Auxiliary Memory, Magnetic Disks and Tape, Associative Memory, Hardware Organization, March Logic, Read/Write Operation, Cache Memory, Associative Mapping, Direct Mapping, Set-Associative Mapping, Virtual Memory, Address Space and Memory Space, Address Mapping Using Pages, Associative Memory Page Table, Page Replacement, Memory Management Hardware."
               }
             ],
-            "books": [
-              {
-                "textBooks": [
-                  {
-                    "bookName": "Mano M., “Computer System Architecture”, Prentice Hall of India, New Delhi, 1995.(T1)"
-                  }
-                ],
-                "referenceBooks": [
-                  {
-                    "bookName": "Morris Mano M &Ciletti M.D., “Digital Design”, 4th Edition, PHI, 2008.(R1)"
-                  },
-                  {
-                    "bookName": "Hayes, J.P., “Computer Architecture and Organization”, 3rdEdition, McGraw-Hill, London, 2000, (R2)"
-                  },
-                  {
-                    "bookName": "Ram. B., “Computer Fundamentals: Architecture and Organization”, 3rdEdition, New Age International Publication, New Delhi, 2000.(R3)"
-                  }
-                ]
-              }
-            ]
+            "books": {
+              "textBooks": [
+                {
+                  "bookName": "Mano M., “Computer System Architecture”, Prentice Hall of India, New Delhi, 1995.(T1)"
+                }
+              ],
+              "referenceBooks": [
+                {
+                  "bookName": "Morris Mano M &Ciletti M.D., “Digital Design”, 4th Edition, PHI, 2008.(R1)"
+                },
+                {
+                  "bookName": "Hayes, J.P., “Computer Architecture and Organization”, 3rdEdition, McGraw-Hill, London, 2000, (R2)"
+                },
+                {
+                  "bookName": "Ram. B., “Computer Fundamentals: Architecture and Organization”, 3rdEdition, New Age International Publication, New Delhi, 2000.(R3)"
+                }
+              ]
+            }
           },
           {
             "SubjectName": "BASICS OF MATHEMATICS",
@@ -133,32 +129,30 @@
                 "content": "Differential equation: Definition of Differential equation, Order and degree of a differential equation, Linear differential equation and Equation of Higher Order Linear differential equation with constant coefficients"
               }
             ],
-            "books": [
-              {
-                "textBooks": [
-                  {
-                    "bookName": "Vasishtha A.R., “Modern Algebra”, Krishna Prakashan Media (P) Ltd, Meerut, 2006.(T1) "
-                  },
-                  {
-                    "bookName": "Vasishtha A.R, “Matrices”, Krishna Prakashan Media (P) Ltd, Meerut, 2006. (T2) "
-                  },
-                  {
-                    "bookName": "Das H.K., “Advanced Engineering Mathematics”, S. Chand, 2009.(T3) "
-                  }
-                ],
-                "referenceBooks": [
-                  {
-                    "bookName": "KolmanB., BusbyR. C., and RossS. C., “Discrete Mathematical Structures”, 6th Edition, Prentice Hall of India, 2008.(R1)"
-                  },
-                  {
-                    "bookName": "ShethH., “Abstract Algebra”, PHI, 2009.(R2)"
-                  },
-                  {
-                    "bookName": "GrewalB. S., “Higher Engineering Mathematics”, Khanna Publishers, 2000.(R3)"
-                  }
-                ]
-              }
-            ]
+            "books": {
+              "textBooks": [
+                {
+                  "bookName": "Vasishtha A.R., “Modern Algebra”, Krishna Prakashan Media (P) Ltd, Meerut, 2006.(T1) "
+                },
+                {
+                  "bookName": "Vasishtha A.R, “Matrices”, Krishna Prakashan Media (P) Ltd, Meerut, 2006. (T2) "
+                },
+                {
+                  "bookName": "Das H.K., “Advanced Engineering Mathematics”, S. Chand, 2009.(T3) "
+                }
+              ],
+              "referenceBooks": [
+                {
+                  "bookName": "KolmanB., BusbyR. C., and RossS. C., “Discrete Mathematical Structures”, 6th Edition, Prentice Hall of India, 2008.(R1)"
+                },
+                {
+                  "bookName": "ShethH., “Abstract Algebra”, PHI, 2009.(R2)"
+                },
+                {
+                  "bookName": "GrewalB. S., “Higher Engineering Mathematics”, Khanna Publishers, 2000.(R3)"
+                }
+              ]
+            }
           },
           {
             "SubjectName": " INTRODUCTION TO COMPUTER SCIENCE",
@@ -190,23 +184,21 @@
                 "content": "Data Communication and Computer Network: Introduction of Data Communication, Transmission Media, Multiplexing, Switching, Computer Network's Topologies, Communication Protocols, Network Devices.\nInternet Basics: Basic Internet Terms, InternetApplications, Electronic Mail: An Introduction how E-mail Works, Searching the Web (SearchEngines), Languages of Internet, Internet and Viruses."
               }
             ],
-            "books": [
-              {
-                "textBooks": [
-                  {
-                    "bookName": "ITL Education Solution Limited, R & D Wing, Introduction to Computer Science, Pearson Education, 2004. "
-                  },
-                  {
-                    "bookName": "Mano M., “Computer System Architecture”, Prentice Hall of India, New Delhi, 1995.(T1)"
-                  }
-                ],
-                "referenceBooks": [
-                  {
-                    "bookName": "Raja Raman V, Fundamentals of Computers, Second Edition, PHI, New Delhi, 1996. "
-                  }
-                ]
-              }
-            ]
+            "books": {
+              "textBooks": [
+                {
+                  "bookName": "ITL Education Solution Limited, R & D Wing, Introduction to Computer Science, Pearson Education, 2004. "
+                },
+                {
+                  "bookName": "Mano M., “Computer System Architecture”, Prentice Hall of India, New Delhi, 1995.(T1)"
+                }
+              ],
+              "referenceBooks": [
+                {
+                  "bookName": "Raja Raman V, Fundamentals of Computers, Second Edition, PHI, New Delhi, 1996. "
+                }
+              ]
+            }
           }
         ],
         "lab": [
@@ -228,29 +220,27 @@
                 "image": null
               }
             ],
-            "books": [
-              {
-                "textBooks": [
-                  {
-                    "bookName": "Jery R Hanly, “Problem solving and Program design in C”, Paerson Education, 7th Edition. (T1)"
-                  },
-                  {
-                    "bookName": "Byron Gottfried, “Schaum's Outline of Programming with C”, McGraw-Hill. (T2)"
-                  },
-                  {
-                    "bookName": "E. Balaguruswamy, Programming in ANSI C, Tata McGraw-Hill. (T3)"
-                  },
-                  {
-                    "bookName": "R.G.Dromey, How to Solve it by Computer, Pearson Education. (T4)"
-                  }
-                ],
-                "referenceBooks": [
-                  {
-                    "bookName": "Brian W. Kernighan and Dennis M. Ritchie, “The C Programming Language”, Prentice Hall India Learning Private Limited.(R1)"
-                  }
-                ]
-              }
-            ]
+            "books": {
+              "textBooks": [
+                {
+                  "bookName": "Jery R Hanly, “Problem solving and Program design in C”, Paerson Education, 7th Edition. (T1)"
+                },
+                {
+                  "bookName": "Byron Gottfried, “Schaum's Outline of Programming with C”, McGraw-Hill. (T2)"
+                },
+                {
+                  "bookName": "E. Balaguruswamy, Programming in ANSI C, Tata McGraw-Hill. (T3)"
+                },
+                {
+                  "bookName": "R.G.Dromey, How to Solve it by Computer, Pearson Education. (T4)"
+                }
+              ],
+              "referenceBooks": [
+                {
+                  "bookName": "Brian W. Kernighan and Dennis M. Ritchie, “The C Programming Language”, Prentice Hall India Learning Private Limited.(R1)"
+                }
+              ]
+            }
           }
         ]
       }
