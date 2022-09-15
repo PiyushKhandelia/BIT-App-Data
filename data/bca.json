@@ -5,8 +5,8 @@
       "subjects": {
         "theory": [
           {
-            "SubjectName": "Problem Solving And Programming in C",
-            "code ": "CA101",
+            "subjectName": "Problem Solving And Programming in C",
+            "code": "CA101",
             "openCode": "BCA11",
             "shortName": "PSPC",
             "credit": 3,
@@ -53,8 +53,8 @@
             }
           },
           {
-            "SubjectName": "Logical Organizations of Computers",
-            "code ": "CA103",
+            "subjectName": "Logical Organizations of Computers",
+            "code": "CA103",
             "openCode": "BCA12",
             "shortName": "loof loc",
             "credit": 4,
@@ -102,8 +102,8 @@
           },
           {
             "SubjectName": "BASICS OF MATHEMATICS",
-            "openCode": "BCA13",
-            "code ": "CA105",
+            "spenCode": "BCA13",
+            "code": "CA105",
             "shortName": "math",
             "credit": 3,
             "listOrder": 3,
@@ -155,8 +155,8 @@
             }
           },
           {
-            "SubjectName": " INTRODUCTION TO COMPUTER SCIENCE",
-            "code ": "CA115",
+            "subjectName": " INTRODUCTION TO COMPUTER SCIENCE",
+            "code": "CA115",
             "openCode": "BCA14",
             "shortName": "itcs",
             "credit": 3,
@@ -171,8 +171,8 @@
                 "content": "Computer Architecture: Central Processing Unit (CPU), Memory, Communication between various units of a Computer System, The Instruction Format, Instruction Set.\nComputer Memory: Primary Memory Hierarchy, Random Access Memory, Types of RAM, Read only memory (ROM), Types of ROM., Classification of Secondary Storage Devices, Magnetic Tape, Magnetic Disk, Optical Disk."
               },
               {
-                "module": "Module - III",
-                "content": "Input Devices & Output Devices: Keyboard, Pointing Devices, Speech Recognition,Digital Camera, Scanners, Optical Scanners, output devices: Printers, Plotters,Computer Output Microfilm (COM), Monitors, Audio output, Projectors, Terminals.\nComputer Program & Languages: Introduction, Developing a program, Algorithm,Flowchart, Pseudo Code (P-Code). Classification of Programming Languages,Generations of Programming Languages."
+                "module": "Module - IsI",
+                "content": "Input Devices & Output Devices: Keyboard, Pointing Devices, Speech Recognition,Digital Camera, Scanners, Optical Scanners, output devices: Printers, Plotters,Computer Output Microfilm (COM), Monitors, Audio output, Projectors, Terminals.\nComputer Program & Languages: Introduction, Developing a program, Algorithm,Flowchart, Pseudo Code(P-Code). Classification of Programming Languages,Generations of Programming Languages."
               },
               {
                 "module": "Module - IV",
@@ -202,8 +202,8 @@
         ],
         "lab": [
           {
-            "SubjectName": "C PROGRAMMING LAB",
-            "code ": "CA112",
+            "subjectName": "C PROGRAMMING LAB",
+            "code": "CA112",
             "openCode": "BCA15",
             "shortName": "cpl",
             "credit": 2,
@@ -241,8 +241,8 @@
             }
           },
           {
-            "SubjectName": "OFFICE AUTOMATION TOOLS LAB",
-            "code ": " CA212",
+            "subjectName": "OFFICE AUTOMATION TOOLS LAB",
+            "code": " CA212",
             "openCode": "BCA16",
             "shortName": "oat",
             "credit": 2,
