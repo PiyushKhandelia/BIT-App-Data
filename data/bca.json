@@ -101,7 +101,7 @@
             }
           },
           {
-            "SubjectName": "BASICS OF MATHEMATICS",
+            "subjectName": "BASICS OF MATHEMATICS",
             "spenCode": "BCA13",
             "code": "CA105",
             "shortName": "math",
