@@ -6,6 +6,7 @@
         "theory": [
           {
             "subjectName": "Problem Solving And Programming in C",
+            "type":"",
             "code": "CA101",
             "openCode": "BCA11",
             "shortName": "PSPC",
@@ -54,6 +55,7 @@
           },
           {
             "subjectName": "Logical Organizations of Computers",
+            "type": "",
             "code": "CA103",
             "openCode": "BCA12",
             "shortName": "loof loc",
@@ -102,6 +104,7 @@
           },
           {
             "subjectName": "BASICS OF MATHEMATICS",
+            "type": "",
             "spenCode": "BCA13",
             "code": "CA105",
             "shortName": "math",
@@ -156,6 +159,7 @@
           },
           {
             "subjectName": " INTRODUCTION TO COMPUTER SCIENCE",
+            "type": "",
             "code": "CA115",
             "openCode": "BCA14",
             "shortName": "itcs",
@@ -203,6 +207,7 @@
         "lab": [
           {
             "subjectName": "C PROGRAMMING LAB",
+            "type": "",
             "code": "CA112",
             "openCode": "BCA15",
             "shortName": "cpl",
@@ -242,6 +247,7 @@
           },
           {
             "subjectName": "OFFICE AUTOMATION TOOLS LAB",
+            "type": "",
             "code": " CA212",
             "openCode": "BCA16",
             "shortName": "oat",
