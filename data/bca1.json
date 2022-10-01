@@ -1,7 +1,7 @@
 {
   "semesters": 
     {
-      "sem": 1,
+      "id": "bca1",
       "subjects": {
         "theory": [
           {
